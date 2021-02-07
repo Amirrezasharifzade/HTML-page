@@ -1,37 +1,147 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AmirReza</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/Amirrezasharifzade/HTML-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body style="background: aquamarine">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>
+<i>
+  AmirReza SharifZade
+</i>
 
-### Markdown
+</h1>
+<p dir="rtl" style="font-size: larger">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  سلام خیلی خوش اومدید 🖐<br><br>
+   امیررضا شریف زاده هستم<br><br>
+  دانشجوی کارشناسی مهندسی کامپیوتر دانشگاه علم و صنعت<br><br><br>
+  علایقم ❤️:<br style="font-size: larger">
+  <ol dir="rtl" style="font-size: larger">
+  برنامه نویسی 💻<br>
+  ادبیات فارسی📜<br>
+  فوتبال
+  ⚽ <br>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+  فیلم و سریال
+  🎥<br><br><br>
 
-1. Numbered
-2. List
+تیم های مورد علاقم : بارسلونا و استقلال<br><br>
+فیلم مورد علاقم:  Forrest Gump<br>
+  <details>
+    Forrest Gump(1994) <br>
+    Summary:<br>
+    Forrest, a man with low IQ, recounts the early years of his life<br>
+    when he found himself in the middle of key historical events.<br>
+    All he wants now is to be reunited with his childhood sweetheart, Jenny.<br>
+  </details><br>
+سریال مورد علاقم :Sherlock Holmes 🕵️<br>
+  <details>
+    Summary:<br>
+    Dr Watson, a former army doctor, finds himself sharing a flat with Sherlock Holmes,<br>
+    an eccentric individual with a knack for solving crimes.<br>
+    Together, they take on the most unusual cases.<br>
+  </details><br>
 
-**Bold** and _Italic_ and `Code` text
+شاعر مورد علاقم : حضرت حافظ<br><br>
+</ol>
+</p>
+<h2 style="color: seagreen" dir="auto">
+  <center>
+    HAFEZ
+  </center>
 
-[Link](url) and ![Image](src)
-```
+</h2>
+<center>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <input type="image" src="download.jpg" height="300" width="400" alt="عکس بارگذاری نشد">
 
-### Jekyll Themes
+</center>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Amirrezasharifzade/HTML-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+  <p style="font-size: larger">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī (Persian: خواجه شمس‌‌الدین محمّد حافظ شیرازی‎),
+    known by his pen name Hafez (حافظ, Ḥāfeẓ, 'the memorizer; the (safe) keeper'; 1315-1390) and as "Hafiz",
+    was a Persian poet,whose collected works are regarded by many Iranians as a pinnacle of Persian literature.<br>
+    His works are often found in the homes of people in the Persian-speaking world, who learn his poems by heart and still use them as proverbs and sayings.<br>
+    His life and poems have become the subjects of much analysis, commentary and interpretation, influencing post-14th century Persian writing more than any other author.
+
+</p>
+
+<a href="https://en.wikipedia.org/wiki/Hafez">
+  <button>
+    more information about hafez
+  </button>
+
+</a><br>
+<br><hr>
+  <br><br>
+
+
+
+
+<center>
+  <h3>
+     غزلی از
+    <a style="color: brown" href="https://ganjoor.net/hafez/ghazal/">
+
+      غزلیات حافظ<br><br>
+
+    </a>
+  </h3>
+
+
+  <p style="font-size: larger" >
+
+
+
+  <b style="color: midnightblue" >
+
+
+
+    دمی با غم به سر بردن جهان یک سر نمی‌ارزد<br><br>
+    به می بفروش
+    <a href="http://www.vajehyab.com/?q=%D8%AF%D9%84%D9%82&d=en" style="color: darkslategrey">
+      دلق
+    </a>
+    ما کز این بهتر نمی‌ارزد<br><br>
+    به کوی می فروشانش به جامی بر نمی‌گیرند<br><br>
+    زهی سجاده تقوا که یک ساغر نمی‌ارزد<br><br>
+    رقیبم سرزنش‌ها کرد کز این باب رخ برتاب<br><br>
+    چه افتاد این سر ما را که خاک در نمی‌ارزد<br><br>
+    شکوه تاج سلطانی که بیم جان در او درج است<br><br>
+    کلاهی دلکش است اما به ترک سر نمی‌ارزد<br><br>
+    چه آسان می‌نمود اول غم دریا به بوی سود<br><br>
+    غلط کردم که این طوفان به صد گوهر نمی‌ارزد<br><br>
+    تو را آن به که روی خود ز مشتاقان بپوشانی<br><br>
+    که شادی جهان گیری غم لشکر نمی‌ارزد<br><br>
+    چو حافظ در قناعت کوش و از دنیای دون بگذر<br><br>
+    که یک جو منت دونان دو صد من زر نمی‌ارزد<br><br>
+  </b>
+    
+</center>
+
+  </p>
+
+<footer>
+ <button style="font-size: larger">
+   راه های ارتباطی با من
+   <details >
+     <address><br>
+       telegram:@amirsharif80 <br><hr>
+       email:<br>amirrezasharifzade80@gmail.com<br>
+       sharifzade_amir@comp.iust.ac.ir
+     </address>
+
+   </details>
+ </button>
+
+</footer>
+
+</body>
+</html>
